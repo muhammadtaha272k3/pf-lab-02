@@ -1,1 +1,5 @@
-print "taha"
+ipo 
+pac 
+flowchart
+pseudocode 
+algorithm
